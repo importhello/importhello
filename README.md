@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @importhello,I’m chinese.I can't speak English, I can only speak Chinese
+- 👋 Hi, I’m @importhello,I’m a Chinese student.My English is poor.
 - 👀 我有兴趣编程
 - 🌱 我现在在学习Python和Java
-- 📫 qq:2928983751
+- 📫 mail:wyc0329@qq.com
 
 <!---
 importhello/importhello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
